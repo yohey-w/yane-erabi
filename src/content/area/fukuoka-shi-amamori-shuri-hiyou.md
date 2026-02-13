@@ -30,12 +30,7 @@ keywords: ["福岡市 雨漏り修理 費用", "福岡市 屋根修理 見積も
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>福岡市対応の屋根修理相談窓口。現地調査を前提に、工事範囲と追加費用条件を整理しながら比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">リペアルーフで見積もり条件を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市で費用が上がりやすい原因と対処法
 
@@ -79,12 +74,7 @@ keywords: ["福岡市 雨漏り修理 費用", "福岡市 屋根修理 見積も
 福岡市では梅雨と台風の二重シーズンがあるため、施工後の保証条件は特に重要です。
 「工事は安かったが、翌年の梅雨にまた漏れて追加費用がかかった」という事例を避けるため、保証年数と再訪条件を事前に確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>2〜3社比較の起点として使いやすい窓口です。費用だけでなく、原因調査と保証条件をそろえて検討しやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">福岡市対応の無料調査を相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -108,12 +98,7 @@ keywords: ["福岡市 雨漏り修理 費用", "福岡市 屋根修理 見積も
 推奨されます。福岡市は梅雨時期の降水量が多いため、事前に屋根の状態を確認しておくと、雨漏りの予防につながります。
 多くの業者が繁忙期前の5月までに無料点検キャンペーンを実施しています。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>福岡市で雨漏り修理費用を比較するなら、現地調査で原因を確定し、見積もり条件をそろえたうえで判断する流れが取りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 まとめると、福岡市の雨漏り修理は「原因特定の精度」と「見積もり内訳の透明性」で総額が変わります。
 梅雨と台風の影響を受けやすいエリアのため、まずは現地調査つきの見積もりを複数比較し、保証条件まで確認してから判断する進め方が、追加費用の抑制につながります。

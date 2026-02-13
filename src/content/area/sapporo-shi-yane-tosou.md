@@ -27,12 +27,7 @@ keywords: ["札幌市 屋根塗装", "札幌市 屋根修理 おすすめ", "札
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】札幌市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 札幌市の屋根事情と地域特性
 
@@ -64,12 +59,7 @@ keywords: ["札幌市 屋根塗装", "札幌市 屋根修理 おすすめ", "札
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -95,12 +85,7 @@ keywords: ["札幌市 屋根塗装", "札幌市 屋根修理 おすすめ", "札
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市で屋根修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 札幌市で屋根修理・雨漏り修理を依頼する際は、必ず複数社から見積もりを取ることが大切です。
 降雪地域特有の劣化パターンや下地補修の必要性を理解している業者を選び、現地調査を受けて施工実績・保証内容を確認してから契約しましょう。

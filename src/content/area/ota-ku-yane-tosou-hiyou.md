@@ -28,12 +28,7 @@ keywords: ["大田区 屋根塗装 費用", "大田区 屋根塗装 見積もり
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>屋根修理見積もりサービス</h3>
-<p>大田区対応の業者にまとめて相談できる窓口。費用だけでなく、下地補修と保証条件まで比較しやすくなります。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で屋根塗装の見積もりを確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## なぜ費用差が出る？大田区で見落としやすい4つのポイント
 
@@ -65,12 +60,7 @@ keywords: ["大田区 屋根塗装 費用", "大田区 屋根塗装 見積もり
 4. 工期と天候延期ルールを確認する  
 梅雨や台風時期は工程が伸びやすいため、延期時の連絡ルールまで確認しておくと安心です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区対応の屋根塗装を比較する</h3>
-<p>相見積もりの初手として活用しやすく、調査日程と見積もり条件をまとめて確認できます。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 火災保険・助成制度・DIYの注意点
 
@@ -94,12 +84,7 @@ DIYは軽微な清掃や点検準備までにとどめ、高所での本格作�
 ### Q4. 工事期間はどれくらい見ておけばよいですか？
 天候次第ですが、一般的には7〜14日程度が目安です。雨天延期時の工程変更ルールを契約前に確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>屋根修理見積もりサービス</h3>
-<p>大田区で屋根塗装費用を比較するなら、現地調査つきで内訳と保証をそろえて確認する方法が進めやすいです。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区の屋根塗装は、塗料単価よりも「下地補修」と「足場条件」で総額が変わりやすい工事です。
 まずは複数社の現地調査を受け、内訳と保証範囲をそろえて比較してから判断することで、費用と品質のバランスを取りやすくなります。

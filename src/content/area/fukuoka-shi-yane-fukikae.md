@@ -27,12 +27,7 @@ keywords: ["福岡市 屋根 葺き替え", "福岡市 屋根修理 費用", "�
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】福岡市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 福岡市の屋根事情と地域特性
 
@@ -50,12 +45,7 @@ keywords: ["福岡市 屋根 葺き替え", "福岡市 屋根修理 費用", "�
 
 福岡市内の住宅は和瓦（昭和40〜60年代の木造）、スレート瓦（平成初期〜）、ガルバリウム鋼板（最近の施工）が混在しています。和瓦の葺き替えは下地補修が追加になることが多く、瓦の処分費も15〜30万円程度上乗せされるケースが多いので注意が必要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 福岡市で屋根修理業者を選ぶ4つの確認ポイント
 
@@ -75,12 +65,7 @@ keywords: ["福岡市 屋根 葺き替え", "福岡市 屋根修理 費用", "�
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -106,12 +91,7 @@ keywords: ["福岡市 屋根 葺き替え", "福岡市 屋根修理 費用", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>福岡市で屋根修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 福岡市で屋根葺き替えを検討する際は、地域の台風リスク・塩害対策を踏まえた業者選びが大切です。複数社から見積もりを取り、施工実績・保証内容を確認してから判断しましょう。
 

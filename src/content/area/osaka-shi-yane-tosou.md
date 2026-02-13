@@ -26,12 +26,7 @@ keywords: ["大阪市 屋根塗装", "大阪市 屋根塗装 費用", "大阪市
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】大阪市対応の屋根塗装業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大阪市の屋根事情と地域特性
 
@@ -53,12 +48,7 @@ keywords: ["大阪市 屋根塗装", "大阪市 屋根塗装 費用", "大阪市
 4. **既存塗膜の除去・下地補修の説明**
    屋根材の割れやひび割れがある場合、塗装だけでなく下地補修が必要になることがあります。追加工事の判断基準と費用がどう変わるのかを事前に説明してくれる業者を選びましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市の優良屋根塗装業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -84,12 +74,7 @@ keywords: ["大阪市 屋根塗装", "大阪市 屋根塗装 費用", "大阪市
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市で屋根塗装を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 大阪市で屋根塗装を依頼する際は、必ず複数社から見積もりを取り、現地調査の結果に基づいた見積もり内容を比較することが大切です。塗料グレード・施工保証・下地補修の条件を確認したうえで、信頼できる業者を選びましょう。費用面だけでなく、施工実績と地元での評判も参考にすることで、長期的に安心できる屋根塗装が実現できます。
 

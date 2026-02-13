@@ -28,12 +28,7 @@ keywords: ["大田区 天窓 修理", "大田区 天窓 雨漏り", "大田区 �
 
 ※料金は屋根の形状・天窓サイズ・立地条件により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】大田区対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。天窓修理実績豊富な業者をご紹介します。現地調査無料です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -65,12 +60,7 @@ keywords: ["大田区 天窓 修理", "大田区 天窓 雨漏り", "大田区 �
 4. **保証内容と再発時対応の明確さ**
 天窓修理は再発リスクが屋根修理より高めです。施工保証5年以上に加えて、再発時に無料点検や補修を行う条件が契約書に明記されているか、必ず確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区の優良天窓修理業者を無料紹介</h3>
-<p>現地調査無料・天窓修理実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -100,12 +90,7 @@ keywords: ["大田区 天窓 修理", "大田区 天窓 雨漏り", "大田区 �
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大田区で天窓修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 大田区で天窓修理・雨漏り対策を検討する際は、シーリング補修か全体交換か、修理方法の判断が最も重要です。現地調査で防水方法を十分に説明してくれる業者を複数社比較し、施工実績・保証内容・対応力を確認してから契約することをお勧めします。
 

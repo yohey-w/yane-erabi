@@ -32,12 +32,7 @@ keywords: ["さいたま市 屋根 葺き替え", "さいたま市 屋根修理 
 上記費用には「既存屋根材の撤去・下地補修・新規屋根材施工・足場代・廃材処分」が含まれます。
 ただし、下地の腐食が進んでいる場合は野地板交換や補強が必要となり、追加で20万〜50万円かかることがあります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>さいたま市対応の屋根葺き替え見積もり比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 葺き替えが必要になるタイミングと判断基準
 
@@ -115,12 +110,7 @@ keywords: ["さいたま市 屋根 葺き替え", "さいたま市 屋根修理 
 - 廃材処分費
 - 諸経費
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>さいたま市の優良屋根葺き替え業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -156,12 +146,7 @@ keywords: ["さいたま市 屋根 葺き替え", "さいたま市 屋根修理 
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>さいたま市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 さいたま市で屋根葺き替えを依頼する際は、必ず複数社から見積もりを取ることが大切です。
 現地調査を受け、下地の状態を確認してから、屋根材の選択と施工範囲を決めましょう。

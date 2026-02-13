@@ -28,12 +28,7 @@ keywords: ["岡山市 雨漏り 修理 費用", "岡山市 屋根修理 おす�
 
 岡山市の雨漏りは梅雨期（5月〜7月）に相談が集中するため、早めの点検が被害拡大防止につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】岡山市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -65,12 +60,7 @@ keywords: ["岡山市 雨漏り 修理 費用", "岡山市 屋根修理 おす�
 
 以上4つのポイントを満たす業者を複数社比較することが、岡山市での失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>岡山市の優良屋根修理業者を無料紹介</h3>
-<p>原因特定実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -96,12 +86,7 @@ keywords: ["岡山市 雨漏り 修理 費用", "岡山市 屋根修理 おす�
 
 部分修理なら1〜3日、全面防水処理なら5〜10日が目安です。天候や劣化状況により変動するため、業者から事前に工期を確認することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>岡山市で雨漏り修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ---
 

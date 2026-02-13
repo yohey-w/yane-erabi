@@ -27,12 +27,7 @@ keywords: ["世田谷区 屋根修理", "世田谷区 屋根 修理費用", "世
 
 ※料金は建物条件・劣化状態・施工難易度で変わります。最新情報は公式サイトで確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区の屋根修理を比較したい方へ</h3>
-<p>リペアルーフは、複数業者の見積もり比較を起点にする際の導線として使いやすい窓口です。</p>
-<a href="https://www.a8.net/user/program/details/ec_id/s00000014894" class="cta-button" rel="nofollow sponsored" target="_blank">リペアルーフで無料相談を始める →</a>
-</div>
+<!-- CTA:top -->
 
 ## 世田谷区ならではの屋根事情
 
@@ -70,12 +65,7 @@ keywords: ["世田谷区 屋根修理", "世田谷区 屋根 修理費用", "世
 - 下地腐食の範囲拡大時の見積更新フロー
 - 追加発注が必要な場合の承認手順
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>比較の起点をそろえたい方向け</h3>
-<p>リペアルーフで比較条件を整理すると、見積の説明項目を同じ軸で見やすくなります。</p>
-<a href="https://af.moshimo.com/af/shop/promotion/detail?promotion_id=2315&shop_site_id=659393" class="cta-button" rel="nofollow sponsored" target="_blank">見積もり比較の相談導線を準備する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問
 
@@ -95,12 +85,7 @@ keywords: ["世田谷区 屋根修理", "世田谷区 屋根 修理費用", "世
 ### Q4. 世田谷区内で見積もりは何社くらい比較したい？
 まず2社以上が原則ですが、世田谷区のように条件が広がる地域では3社で比較すると相場と工事範囲の差が見えやすいです。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>世田谷区内での無料調査を比較するなら</h3>
-<p>地域条件ごとの工事差を並べて確認できる比較基準を事前に作るのが、失敗を減らすコツです。</p>
-<a href="https://www.a8.net/user/program/details/ec_id/s00000014894" class="cta-button" rel="nofollow sponsored" target="_blank">リペアルーフで現地条件を整理して相談する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 

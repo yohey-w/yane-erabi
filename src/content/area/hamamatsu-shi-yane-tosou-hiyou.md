@@ -26,12 +26,7 @@ keywords: ["浜松市 屋根塗装 費用", "浜松市 屋根塗装 業者", "�
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】浜松市対応の屋根塗装業者を比較</h3>
-<p>複数社の見積もりを一括請求。屋根の現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -77,12 +72,7 @@ keywords: ["浜松市 屋根塗装 費用", "浜松市 屋根塗装 業者", "�
 
 総じて、浜松市で失敗しない業者選びは「地域の気候特性を理解した現地対応」と「見積もり内訳の透明性」の2点に絞られます。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市の優良屋根塗装業者を無料紹介</h3>
-<p>地域実績豊富で塗料・工事内訳が明確な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -112,12 +102,7 @@ keywords: ["浜松市 屋根塗装 費用", "浜松市 屋根塗装 業者", "�
 
 ## まとめ：浜松市で屋根塗装を失敗しないステップ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>浜松市で屋根塗装を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 浜松市で屋根塗装を進める際は、まず現地調査で劣化状況を確認し、地域特性（遠州の強風対策、海岸部の塩害対策、内陸部のカビ・コケ対策）に合わせた塗料選びをすることが重要です。
 

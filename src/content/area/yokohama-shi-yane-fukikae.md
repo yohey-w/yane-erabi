@@ -28,12 +28,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用 相�
 
 横浜市は潮風による塩害が多いため、スレート屋根は15年程度で塗膜が劣化し、葺き替えのタイミングが関東内陸部より早まります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】横浜市対応の屋根修理業者を比較</h3>
-<p>複数社の葺き替え見積もりを一括請求。現地調査無料で、足場代・材料費の内訳をそろえて比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で葺き替え見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -77,12 +72,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用 相�
 
 **総括**: 以上4つのポイントを満たす業者を2～3社比較することが、横浜市で失敗しない葺き替え工事の進め方です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。潮風対策の実績がある業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -108,12 +98,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用 相�
 
 ガルバリウム鋼板なら5年ごとの簡易点検、10年ごとの専門業者による調査が目安です。特に横浜市は塩害の進行が早いため、定期的なメンテナンスで寿命を延ばすことができます。施工業者がメンテナンスプランを提供しているか確認すると、長期的なコスト管理がしやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、潮風対策・保証条件を確認した上で決定できます。現地調査は無料です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で葺き替え見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ---
 

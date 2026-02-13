@@ -33,12 +33,7 @@ keywords: ["大阪市 屋根 葺き替え", "大阪市 屋根修理 費用", "�
 特にスレート屋根は経年でひび割れや色褪せが進行しやすく、15〜20年で葺き替えを検討するケースが多く見られます。
 見積もりを取る際は、足場費用・下地補修費・廃材処分費が内訳に含まれているかを必ず確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】大阪市対応の屋根葺き替え業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 大阪市の屋根事情と地域特性
 
@@ -80,12 +75,7 @@ keywords: ["大阪市 屋根 葺き替え", "大阪市 屋根修理 費用", "�
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市の優良屋根葺き替え業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -121,12 +111,7 @@ keywords: ["大阪市 屋根 葺き替え", "大阪市 屋根修理 費用", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>大阪市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 大阪市で屋根葺き替えを依頼する際は、必ず複数社から見積もりを取ることが大切です。
 現地調査を受け、施工実績・保証内容・火災保険サポートの有無を確認してから契約しましょう。

@@ -30,12 +30,7 @@ keywords: ["横浜市 雨漏り修理 費用", "横浜市 屋根修理 見積も
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市対応の屋根修理相談窓口</h3>
-<p>現地調査を前提に、工事範囲と追加費用条件を整理しながら複数社で比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">見積もり条件を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市で費用が上がりやすい原因と対処法
 
@@ -63,12 +58,7 @@ keywords: ["横浜市 雨漏り修理 費用", "横浜市 屋根修理 見積も
 「無料で修理できる」と断定する営業だけで進めると、後で自己負担が出ることがあります。
 保険適用の可否は契約内容と損害認定で決まるため、最終判断は保険会社に確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>火災保険を活用した雨漏り修理相談</h3>
-<p>保険申請のサポート経験が豊富な業者をご紹介。見積もりから申請までの流れをサポートします。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">保険対応の相談をする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 見積もり比較で失敗しない3つの確認項目
 
@@ -104,12 +94,7 @@ keywords: ["横浜市 雨漏り修理 費用", "横浜市 屋根修理 見積も
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の雨漏り修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 横浜市の雨漏り修理は「原因特定の精度」と「見積もり内訳の透明性」で総額が変わります。
 まずは現地調査つきの見積もりを複数比較し、保証条件まで確認してから判断する進め方が、追加費用の抑制につながります。

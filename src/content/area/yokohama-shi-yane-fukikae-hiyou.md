@@ -33,12 +33,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用", "�
 横浜市内でも鶴見・神奈川区などの臨海部と、青葉区・都筑区などの内陸部では気候条件が異なります。
 海沿いでは塩害による金属屋根の劣化が早く、内陸部では台風時の強風被害が出やすい傾向があります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】横浜市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 横浜市の屋根事情と地域特性
 
@@ -87,12 +82,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用", "�
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 横浜市内には多くの屋根修理業者がありますが、見積もり内容と保証内容をしっかり比較してから判断しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -128,12 +118,7 @@ keywords: ["横浜市 屋根 葺き替え", "横浜市 屋根修理 費用", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>横浜市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 横浜市で屋根葺き替えを依頼する際は、必ず複数社から見積もりを取ることが大切です。
 臨海部では塩害対策、内陸部では台風対策が重要になるため、地域特性を理解した業者を選びましょう。

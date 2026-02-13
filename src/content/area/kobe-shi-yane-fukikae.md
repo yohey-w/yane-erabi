@@ -26,12 +26,7 @@ keywords: ["神戸市 屋根 葺き替え", "神戸市 屋根葺き替え 費用
 
 ※屋根面積・下地状況・足場代により変動します。見積もりは複数社から取ることが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】神戸市対応の屋根葺き替え業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料・保証充実の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -75,12 +70,7 @@ keywords: ["神戸市 屋根 葺き替え", "神戸市 屋根葺き替え 費用
 
 以上4つのポイントを確認し、複数社を比較することが、神戸市で失敗しない屋根葺き替え業者選びの鍵となります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市の優良屋根葺き替え業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富・保証充実の業者を厳選。複数社の見積もり比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -110,12 +100,7 @@ keywords: ["神戸市 屋根 葺き替え", "神戸市 屋根葺き替え 費用
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>神戸市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、信頼できる業者を選びましょう。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 屋根葺き替えは、神戸市の塩害や台風といった地域特性を理解している業者に依頼することが成功の鍵です。複数社から見積もりを取り、施工実績・保証内容・火災保険サポート体制を比較してから判断しましょう。最初の一歩は、無料の現地調査と見積もり依頼です。
 

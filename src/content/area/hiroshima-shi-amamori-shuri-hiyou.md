@@ -28,12 +28,7 @@ keywords: ["広島市 雨漏り修理 費用", "広島市 屋根修理 おすす
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】広島市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -65,12 +60,7 @@ keywords: ["広島市 雨漏り修理 費用", "広島市 屋根修理 おすす
 
 以上4つのポイントを満たす業者を複数社比較することが、広島市での失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>広島市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -100,12 +90,7 @@ keywords: ["広島市 雨漏り修理 費用", "広島市 屋根修理 おすす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>広島市で屋根修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 広島市で屋根修理・雨漏り修理を依頼する際は、必ず複数社から見積もりを取ることが大切です。瀬戸内海の塩害環境では、防水処理と塩害対策の強化が長期的な耐久性に直結するため、実績豊富な業者の選定がより重要になります。
 

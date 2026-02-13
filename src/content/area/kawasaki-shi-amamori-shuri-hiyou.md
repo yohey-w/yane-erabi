@@ -29,12 +29,7 @@ keywords: ["川崎市 雨漏り修理 費用", "川崎市 屋根修理 おすす
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】川崎市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 川崎市の屋根事情と地域特性
 
@@ -69,12 +64,7 @@ keywords: ["川崎市 雨漏り修理 費用", "川崎市 屋根修理 おすす
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -100,12 +90,7 @@ keywords: ["川崎市 雨漏り修理 費用", "川崎市 屋根修理 おすす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>川崎市で屋根修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 川崎市で屋根修理・雨漏り修理を依頼する際は、必ず複数社から見積もりを取ることが大切です。
 臨海部の塩害、内陸部の強風、住宅密集地の足場条件など、エリアごとの特性を理解した業者を選びましょう。

@@ -26,12 +26,7 @@ keywords: ["八王子市 雨漏り修理 費用", "八王子市 屋根修理 お
 
 八王子市の冬季は融雪期（1月〜3月）に雨漏り相談が集中するため、初雪前の点検が被害拡大防止につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】八王子市対応の屋根修理業者を比較</h3>
-<p>雪対策の実績豊富な業者を厳選。複数社の見積もりを一括請求できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -63,12 +58,7 @@ keywords: ["八王子市 雨漏り修理 費用", "八王子市 屋根修理 お
 
 以上4つのポイントを満たす業者を複数社比較することが、八王子市での失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>八王子市の雪害対応・屋根修理業者を無料紹介</h3>
-<p>融雪対策の実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -94,12 +84,7 @@ keywords: ["八王子市 雨漏り修理 費用", "八王子市 屋根修理 お
 
 簡単なコーキング補修なら可能ですが、融雪水対策を含む根本的な修理はプロに任せることを強く推奨します。高所作業に加え、冬季の屋根は滑りやすく転落事故のリスクが高まります。安全面からもプロへの依頼が重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>八王子市で屋根修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ---
 

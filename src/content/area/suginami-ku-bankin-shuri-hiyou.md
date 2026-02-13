@@ -28,12 +28,7 @@ keywords: ["杉並区 板金修理 費用", "杉並区 屋根板金 修理", "�
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】杉並区対応の屋根板金修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の屋根事情と地域特性
 
@@ -82,12 +77,7 @@ keywords: ["杉並区 板金修理 費用", "杉並区 屋根板金 修理", "�
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の優良板金修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -118,12 +108,7 @@ keywords: ["杉並区 板金修理 費用", "杉並区 屋根板金 修理", "�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区で板金修理を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で屋根板金修理を依頼する際は、必ず複数社から見積もりを取ることが大切です。
 現地調査を受け、施工実績・保証内容を確認してから契約しましょう。

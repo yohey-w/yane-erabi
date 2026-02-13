@@ -26,12 +26,7 @@ keywords: ["仙台市 屋根塗装", "仙台市 屋根修理 おすすめ", "仙
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】仙台市対応の屋根塗装業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -61,12 +56,7 @@ keywords: ["仙台市 屋根塗装", "仙台市 屋根修理 おすすめ", "仙
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵となります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市の優良屋根塗装業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -96,12 +86,7 @@ keywords: ["仙台市 屋根塗装", "仙台市 屋根修理 おすすめ", "仙
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>仙台市で屋根塗装を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX8OG+7TM1WY+17R0+63OYA" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 仙台市で屋根塗装・屋根修理を依頼する際は、複数社から見積もりを取ることが大切です。冬季の降雪や強い北西風の影響を受けやすい仙台市では、定期的なメンテナンスが塗装寿命を大幅に延ばします。まずは現地調査を受けて、施工実績・保証内容を確認してから契約しましょう。無料の現地調査・見積もりを依頼することをお勧めします。
 

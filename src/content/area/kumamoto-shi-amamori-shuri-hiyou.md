@@ -30,12 +30,7 @@ keywords: ["熊本市 雨漏り修理 費用", "熊本市 屋根修理 見積も
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>熊本市対応の屋根修理相談窓口。現地調査を前提に、工事範囲と追加費用条件を整理しながら比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">リペアルーフで見積もり条件を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 熊本市の屋根事情と地域特性
 
@@ -52,12 +47,7 @@ keywords: ["熊本市 雨漏り修理 費用", "熊本市 屋根修理 見積も
 ただし「無料で修理できます」を強調する営業だけで進めると、後で自己負担が発生することがあるため、最終判断は保険会社に確認してください。
 経年劣化による雨漏りは対象外となるケースが多いため、保険証券と業者の説明をあわせて確認しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>熊本市で費用が増えやすい原因（梅雨の激雨、台風被害）を正確に把握するため、現地調査の質が重要です。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">熊本市対応の無料調査を相談する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 熊本市で屋根修理業者を選ぶ4つの確認ポイント
 
@@ -82,12 +72,7 @@ keywords: ["熊本市 雨漏り修理 費用", "熊本市 屋根修理 見積も
 
 以上4つのポイントを満たす業者を複数社比較することが、熊本市での失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>熊本市の優良屋根修理業者を無料紹介。現地調査無料・施工実績豊富な業者を厳選し、複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問
 
@@ -119,12 +104,7 @@ keywords: ["熊本市 雨漏り修理 費用", "熊本市 屋根修理 見積も
 部分修理なら1〜2日、全面葺き替えなら1〜2週間が目安です。
 熊本市は梅雨と台風の時期を避けて施工することが多いため、繁忙期を避けての依頼がスケジュール確保につながります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>熊本市で雨漏り修理費用を比較するなら、現地調査で原因を確定し、見積もり条件をそろえたうえで判断する流れが取りやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり比較を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## まとめ
 
@@ -132,11 +112,6 @@ keywords: ["熊本市 雨漏り修理 費用", "熊本市 屋根修理 見積も
 梅雨と台風の影響を受けやすいエリアのため、まずは現地調査つきの見積もりを複数比較し、保証条件まで確認してから判断する進め方が追加費用の抑制につながります。
 火災保険の活用も視野に入れながら、丁寧に業者を選定しましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>リペアルーフ</h3>
-<p>熊本市で屋根修理を検討中の方へ。複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

@@ -29,12 +29,7 @@ keywords: ["品川区 屋根修理 おすすめ", "品川区 雨漏り修理 費
 - 雨天が続く時期は工期が延びる場合がある
 - 搬入経路や足場条件で人件費が変動する
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>屋根修理見積もりサービス</h3>
-<p>品川区対応の屋根修理業者へまとめて相談できる窓口です。調査日程と費用目安を同時に確認できます。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり条件を確認する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 品川区で業者選びを進める3つの確認ポイント
 
@@ -49,12 +44,7 @@ keywords: ["品川区 屋根修理 おすすめ", "品川区 雨漏り修理 費
 
 品川区は再開発エリアと古い住宅街が混在し、建物ごとに工法の前提が異なります。大田区・川崎側から来る業者も多いため、対応実績のある地域を聞いておくと検討しやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>品川区対応の屋根修理を比較する</h3>
-<p>1社で即決せず、複数社の見積もりを同じ基準で比べると、不要な追加費用を避けやすくなります。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">対応業者をチェックする →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 火災保険・DIY・契約前の注意点
 
@@ -84,12 +74,7 @@ DIYは応急処置までにとどめ、本格修理は専門業者へ相談す�
 #### Q4. 相見積もりは何社くらい取るべきですか？
 2〜3社を同条件で比較する方法が実務的です。金額だけでなく調査内容と保証説明の分かりやすさも確認してください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>屋根修理見積もりサービス</h3>
-<p>品川区で屋根修理を検討するなら、まず無料相談で条件を整理してから比較すると進めやすくなります。</p>
-<a href="https://yane-erabi.com/" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もり相談を始める →</a>
-</div>
+<!-- CTA:bottom -->
 
 品川区で屋根修理を成功させるには、相場確認に加えて、現地調査の質と追加費用条件を比較することが重要です。まずは無料の現地調査を依頼し、複数社の提案を見比べてから判断するのが堅実です。
 

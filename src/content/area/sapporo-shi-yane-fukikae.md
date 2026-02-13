@@ -28,12 +28,7 @@ keywords: ["札幌市 屋根 葺き替え", "札幌市 屋根修理 見積もり
 
 ※料金は屋根の面積・材質・劣化状況・積雪対応グレードにより変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】札幌市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ---
 
@@ -87,12 +82,7 @@ keywords: ["札幌市 屋根 葺き替え", "札幌市 屋根修理 見積もり
 
 以上4つのポイントを満たす業者を複数社比較することが、札幌市での失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・積雪地対応実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ---
 
@@ -122,12 +112,7 @@ keywords: ["札幌市 屋根 葺き替え", "札幌市 屋根修理 見積もり
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>札幌市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 札幌市で屋根葺き替えを依頼する際は、積雪地特有の気候対応と、寒冷地での施工実績を持つ業者を選ぶことが最重要です。
 単純な「安さ」で判断するのではなく、積雪荷重対応の材料グレード、冬期工事の対応方針、保証内容を複数社で比較してから契約しましょう。

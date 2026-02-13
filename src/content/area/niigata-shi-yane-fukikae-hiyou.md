@@ -28,12 +28,7 @@ keywords: ["新潟市 屋根葺き替え 費用", "新潟市 屋根修理 おす
 
 ※料金は屋根の面積・材質・劣化状況により変動します。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】新潟市対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 新潟市の屋根事情と地域特性
 
@@ -45,12 +40,7 @@ keywords: ["新潟市 屋根葺き替え 費用", "新潟市 屋根修理 おす
 
 大雪や台風による屋根の破損は、火災保険の対象になる場合があります。ただし「無料で修理できます」と強調する業者には注意が必要です。保険適用の可否は保険会社に確認することが重要です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## 新潟市で屋根修理業者を選ぶ4つの確認ポイント
 
@@ -70,12 +60,7 @@ keywords: ["新潟市 屋根葺き替え 費用", "新潟市 屋根修理 おす
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼 →</a>
-</div>
+<!-- CTA:bottom -->
 
 ## よくある質問（FAQ）
 
@@ -101,12 +86,7 @@ keywords: ["新潟市 屋根葺き替え 費用", "新潟市 屋根修理 おす
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>新潟市で屋根葺き替えを検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 新潟市で屋根葺き替えを依頼する際は、必ず複数社から見積もりを取ることが大切です。新潟市特有の降雪や高温多湿の気候に対応した施工実績を持つ業者を選びましょう。
 現地調査を受け、施工実績・保証内容を確認してから契約することをおすすめします。まずは無料の現地調査・見積もりを依頼することから始めてください。

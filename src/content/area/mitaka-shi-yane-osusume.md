@@ -26,12 +26,7 @@ keywords: ["三鷹市 屋根修理 おすすめ", "三鷹市 屋根修理 費用
 
 ※料金は屋根面積・材質・足場設営の要否により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】三鷹市対応の屋根修理業者に見積もり依頼</h3>
-<p>複数社の相見積もりで、相場から外れた見積もりを見抜きやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">屋根修理業者の見積もりを比較する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 三鷹市でおすすめ屋根修理業者5選
 
@@ -63,12 +58,7 @@ keywords: ["三鷹市 屋根修理 おすすめ", "三鷹市 屋根修理 費用
 
 相見積もりを取る際は、同じ劣化箇所・同じ修理方法で複数社に見積もりを依頼することで、相場から大きく外れた見積もりを見抜きやすくなります。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市の屋根修理業者から複数見積もりを取得</h3>
-<p>現地調査無料・見積もり無料。複数社比較で最適な業者が見つかりやすくなります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -96,11 +86,6 @@ keywords: ["三鷹市 屋根修理 おすすめ", "三鷹市 屋根修理 費用
 
 三鷹市で屋根修理を検討する際は、武蔵野台地の降雨特性と住宅地の傾斜屋根構造を理解している地域密着型業者を複数社比較することが失敗を防ぐ鍵です。費用だけでなく、現地調査の丁寧さ、火災保険対応の実績、保証内容を確認したうえで、納得できる業者を選びましょう。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>三鷹市で屋根修理業者を比較・見積もり</h3>
-<p>複数の優良業者から一度に見積もりを取得。現地調査から保証まで、安心の選択肢が見つかります。</p>
-<a href="https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 ※料金は変更される場合があります。最新情報は公式サイトでご確認ください。

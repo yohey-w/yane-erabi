@@ -28,12 +28,7 @@ keywords: ["杉並区 漆喰 補修", "杉並区 屋根修理 漆喰", "杉並�
 
 ※料金は屋根の面積・高さ・劣化状況により変動します。最新情報は公式サイトでご確認ください。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>【無料】杉並区対応の屋根修理業者を比較</h3>
-<p>複数社の見積もりを一括請求。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:top -->
 
 ## 杉並区の屋根事情と漆喰劣化の特徴
 
@@ -81,12 +76,7 @@ keywords: ["杉並区 漆喰 補修", "杉並区 屋根修理 漆喰", "杉並�
 
 以上4つのポイントを満たす業者を複数社比較することが、失敗しない業者選びの鍵です。
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区の優良屋根修理業者を無料紹介</h3>
-<p>現地調査無料・施工実績豊富な業者を厳選。複数社の見積もりを比較できます。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">今すぐ無料見積もりを依頼 →</a>
-</div>
+<!-- CTA:middle -->
 
 ## よくある質問（FAQ）
 
@@ -116,12 +106,7 @@ keywords: ["杉並区 漆喰 補修", "杉並区 屋根修理 漆喰", "杉並�
 
 ## まとめ
 
-<div class="cta-box">
-<span class="cta-badge">PR</span>
-<h3>杉並区で漆喰補修を検討中の方へ</h3>
-<p>複数社の見積もりを比較して、納得の業者選びを。現地調査無料の業者をご紹介します。</p>
-<a href="" class="cta-button" rel="nofollow sponsored" target="_blank">無料で見積もりを依頼する →</a>
-</div>
+<!-- CTA:bottom -->
 
 杉並区で瓦屋根の漆喰補修を依頼する際は、必ず複数社から見積もりを取ることが大切です。
 現地調査を受け、施工実績・保証内容・見積もり内訳を確認してから契約しましょう。
