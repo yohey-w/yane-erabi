@@ -14,7 +14,7 @@ export const affiliatePrograms = {
     network: 'A8',
     rewardYen: 1800,
     status: 'active',
-    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+88HW1E+36X8+25EKCY',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+88I27M+36X8+25EKCY',
   },
 };
 
