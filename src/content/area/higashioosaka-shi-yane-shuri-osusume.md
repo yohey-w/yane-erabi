@@ -5,8 +5,7 @@ publishedAt: '2026-02-14'
 category: area
 area: 東大阪市
 services:
-- リペアルーフ
-- 東大阪市対応の屋根修理業者
+- 屋根修理業者
 keywords:
 - 東大阪市 屋根修理 おすすめ
 - 東大阪市 屋根修理
