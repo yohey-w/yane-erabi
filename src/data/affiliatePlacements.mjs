@@ -16,6 +16,12 @@ export const affiliatePrograms = {
     status: 'active',
     affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AX9GA+88I27M+36X8+25EKCY',
   },
+  zehitomo: {
+    name: 'ゼヒトモ',
+    network: 'A8',
+    status: 'active',
+    affiliateUrl: 'https://px.a8.net/svt/ejp?a8mat=4AXA8I+53DP9U+5LK4+5YJRM',
+  },
 };
 
 export const affiliatePlacements = {
@@ -28,11 +34,11 @@ export const affiliatePlacements = {
     note: PR_NOTE,
   },
   middle: {
-    title: '雨漏りの原因特定と修理費用を早めに把握',
+    title: '屋根修理・外壁塗装の見積もりを比較',
     description:
-      '雨漏りは放置すると補修範囲が広がりやすいため、早めの相談が重要です。リペアルーフで現地確認の流れを先に押さえておきましょう。',
-    buttonText: 'リペアルーフの修理相談を始める →',
-    affiliateUrl: affiliatePrograms.repairRoof.affiliateUrl,
+      'ゼヒトモは国内最大級の見積もりサイト。屋根修理・外壁塗装・リフォームなど、複数業者の条件をまとめて比較できます。',
+    buttonText: 'ゼヒトモで無料見積もりを比較する →',
+    affiliateUrl: affiliatePrograms.zehitomo.affiliateUrl,
     note: PR_NOTE,
   },
   bottom: {
